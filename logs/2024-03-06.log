@@ -1,0 +1,210 @@
+
+Started POST /usuarios for :: ::1 at Tue Mar 05 2024 21:01:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 150 ms Request ID: [32f1372a-11b3-4267-a25b-40a9185846c1]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:02:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:03:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 11 ms Request ID: [cf708173-6563-4cc7-a1c8-5bc7f818e24a]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:05:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 43 ms Request ID: [1c4d429b-4292-4d97-87d1-e0e06a9e130d]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:06:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 24 ms Request ID: [f00050c4-495c-4553-9b4f-881a917aa4a3]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:07:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 53 ms Request ID: [366bdb24-d192-46ea-88b8-c983da3801e3]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:16:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 9 ms Request ID: [55045013-4a5f-4046-b8f2-c99ee0ca835f]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:17:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 10 ms Request ID: [1d7df242-1ef6-4423-82e5-acc6ae801c73]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:18:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 56 ms Request ID: [acb3f010-ef8b-4e4c-993b-aacab03623bd]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:21:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 32 ms Request ID: [edfc9bc7-bfac-44ee-8258-25219a274e93]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:21:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 23 ms Request ID: [4538e479-c456-4433-8c65-4030852683e1]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:22:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 33 ms Request ID: [614621ed-8b0f-4e5d-a5ef-fae357af8801]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:23:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"yamilc@gmail.com"}
+Completed: 400 message:  Time response: 12 ms Request ID: [9cd15430-6f10-4566-8115-a74511defd04]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:24:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 2 ms Request ID: [72a0a9e7-6879-4a94-b680-94bb379cd17f]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:24:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 2 ms Request ID: [4af085b7-f8a6-4264-833b-15cc63f7ca4f]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:24:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 2 ms Request ID: [3dee2012-d6e5-4a0c-b2df-7202665bdcaf]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:25:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 177 ms Request ID: [492a633f-dba5-45f8-b2fc-e7651c08d670]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:26:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 44 ms Request ID: [cd0f8b00-d085-425c-a960-5e7367ab9117]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:27:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 27 ms Request ID: [991d7c6a-c420-4577-902d-f03e3aea8748]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:27:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 3 ms Request ID: [f3273afa-b608-46f0-bc0b-6c56a62ada1c]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:29:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 35 ms Request ID: [97f5af8c-c3f3-4347-a567-44c9205b5ee1]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:29:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 132 ms Request ID: [910be123-fdef-46d7-a4a8-d5713775c4d7]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:30:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 130 ms Request ID: [e894dc2a-16e5-4149-a960-e44644e540d0]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 21:30:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [7693dc5c-356a-47ea-8f62-0007e75fea78]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 21:30:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [0ecfde05-98d5-4deb-ab33-851cd7d8491c]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:31:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 50 ms Request ID: [59482849-8fbd-435b-96c8-1393e2517a4a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:33:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 6 ms Request ID: [f8e03013-41fd-4f89-a164-6e628a732c28]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:33:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 54 ms Request ID: [9dcc2c6f-401b-48db-9e83-701729bcc422]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:34:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 16 ms Request ID: [a3d711eb-ff48-47e7-a9fb-e7a569f73f25]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:36:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 6 ms Request ID: [42749044-8068-4710-adf1-34ab7da169b2]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:39:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 34 ms Request ID: [c4152f6c-894f-42f6-9925-2c56a8dc1d9c]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:40:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 15 ms Request ID: [8dec1bf1-aad9-4328-9fdd-9f126eba9c0a]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:41:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 24 ms Request ID: [5996603e-ee71-4d96-a049-976beaa3d6a2]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 12 ms Request ID: [9ddbdca6-1345-41b6-a32d-09ab2ec0ba14]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 4 ms Request ID: [a8bc0762-8f8e-4880-93fd-a8948d46bc0a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 4 ms Request ID: [0e06a15e-0064-461a-ba69-44780cfd9b58]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 3 ms Request ID: [79ca65d4-81ae-4c04-a0fe-be73f270150f]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 2 ms Request ID: [a96c5470-ae52-48e4-a705-7de5c97b7611]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 3 ms Request ID: [d64fc289-e7f2-4e8d-ab9b-be838b5eb478]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 3 ms Request ID: [c3b00b60-45c9-4f1d-b647-eb35bc333bfa]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 2 ms Request ID: [005d928f-b579-4e37-8ef4-091c1b0bd962]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:42:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 3 ms Request ID: [568cb122-bd24-41a5-ae54-fcedddf0cf6a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:44:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com"}
+Completed: 400 message:  Time response: 5 ms Request ID: [e43a7647-1bde-4192-a25d-9fc856c2b099]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:45:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 33 ms Request ID: [6e156743-30d9-4fff-a56b-f59249fc1316]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:45:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 14 ms Request ID: [c27bb359-4e30-4ba4-88cf-c63aba3edbb1]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:50:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 118 ms Request ID: [803698c0-46fd-4085-a8f7-c39648005ddf]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:50:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 124 ms Request ID: [774d6640-50e8-4b4c-886f-31a3c3d9ac5f]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 21:50:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [53d26287-2085-4ab7-a4be-a43f047462f5]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 21:50:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [ad522d1f-48c7-435d-b2d1-2ca002753a5c]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 21:53:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 122 ms Request ID: [9d601ce8-656f-4646-a1a2-7c8e22087724]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 21:53:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [3e412c88-5212-411c-9305-8774ebd680c1]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 21:53:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [c280f963-0059-41df-be8f-a5037a046198]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Tue Mar 05 2024 21:55:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 404 message:  Time response: 8 ms Request ID: [2f2f83b2-3bfc-452a-b3bf-c948983c1f61]

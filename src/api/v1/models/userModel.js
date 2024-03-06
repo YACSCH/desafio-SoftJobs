@@ -12,21 +12,14 @@ const createUser = async ({ email, password, rol, lenguage }) => {
   return response.rows[0];
 };
 
-const findUserbyEmail = async ({ email }) => {
+const findUserbyEmail = async ( email ) => {
   const SQLquery = {
-    text: "SELECT * FROM usuarios WHERE email = $1",
-    values: [ email ],
-  };
-  const response = await pool.query(SQLquery);
-  return response.rows[0];
-};
-const findUser = async ({ email, password }) => {
-  const SQLquery = {
-    text: "SELECT * FROM usuarios WHERE email = $1 and password = $2 ",
-    values: [ email, password ],
+    text: "SELECT * FROM usuarios WHERE email = $1 ",
+    values: [ email ]
   };
   const response = await pool.query(SQLquery);
   return response.rows[0];
 };
 
-export { createUser, findUserbyEmail, findUser };
+
+export { createUser, findUserbyEmail };
