@@ -436,3 +436,35 @@ Completed: 304 message:  Time response: 5 ms Request ID: [cea55d91-7aae-47a0-9a7
 Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:39:05 GMT-0300 (hora de verano de Chile)
   Parameters in body: {}
 Completed: 304 message:  Time response: 5 ms Request ID: [b0b97665-9642-41d6-a554-f372ce64961a]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 23:51:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 134 ms Request ID: [a59de5fd-3942-4c0d-b245-801f13dc1a65]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:52:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [c3038319-9bac-41ca-8bc5-42d39d1e157e]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:52:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [7438faf8-a08d-41a0-8a47-5c2aad3e0412]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:52:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [f155e90c-f5a0-4c0e-b14a-7c02f5cc4566]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:52:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [91f3a101-2fc6-4d26-9aa2-69dd08b25b10]
+
+Started POST /login for :: ::1 at Tue Mar 05 2024 23:52:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 200 message:  Time response: 115 ms Request ID: [65b94c7f-24af-47b4-9f00-90d61d463cee]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:52:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [dc359c56-ecaf-4e18-b00d-777e26c89d71]
+
+Started GET /usuarios for :: ::1 at Tue Mar 05 2024 23:52:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [820cce7b-6017-4321-b718-e5fad93096bb]
