@@ -14,8 +14,7 @@ const createNewUser = async (req, res) => {
   }
 };
 
-const LoginUser = async (req, res) => {
-  
+const loginUser = async (req, res) => {
   const { email, password } = req.body;
   try {
     const findUser = await findUserbyEmail(email);
@@ -48,5 +47,17 @@ const LoginUser = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
-
-export { createNewUser, LoginUser };
+const getUser = async (req, res) => {
+  try {
+    const Auth = req.header("Authorization");
+    const token = Auth.split("Bearer ")[1];
+    jwt.verify(token, process.env.JWT_SECRET);
+    const { email } = jwt.decode(token);
+    const user = await findUserbyEmail(email);
+    res.status(200).json([user]);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: error.message });
+  }
+};
+export { createNewUser, loginUser, getUser };
